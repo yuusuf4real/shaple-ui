@@ -1,11 +1,11 @@
 #container{
-    width: 1340px;
+    width: 1339px;
     height: 2000px;
     border: 1px solid;
 }
 
 .header{
-    width: 1340px;
+    width: 1339px;
     height: 80px;
     border: 1px solid;
 }
@@ -18,7 +18,7 @@
 }
 
 .menuColumn2{
-    width: 936px;
+    width: 926px;
     height: 80px;
     border: 1px solid;
     float: left;
@@ -34,9 +34,9 @@
 }
 
 .menuitems{
-    width: 154px;
+    width: 152px;
     height: 80px;
-    border: 1px solid;
+    dborder: 1px solid;
     float: left;
     font-size: 13px;
     text-transform: uppercase;
