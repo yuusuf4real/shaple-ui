@@ -1,13 +1,13 @@
 #container{
     width: 1339px;
     height: 2000px;
-    border: 1px solid;
+    dborder: 1px solid;
 }
 
 .header{
     width: 1339px;
     height: 80px;
-    border: 1px solid;
+    dborder: 1px solid;
 }
 
 .menuColumn1{
